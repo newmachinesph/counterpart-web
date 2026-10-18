@@ -1,0 +1,22 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+npm-debug.log*
+.local/
+.vercel/
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.vercel
+.env*
+!.env.example

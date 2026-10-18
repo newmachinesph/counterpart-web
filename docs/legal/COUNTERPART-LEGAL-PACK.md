@@ -1,0 +1,550 @@
+# Counterpart agreement and policy review pack
+
+Prepared 18 September 2026. **DRAFT — NOT IN FORCE.**
+
+These proposed documents are not available for acceptance and do not amend existing agreements. Complete bracketed details, confirm the operator and obtain legal advice for the actual arrangements before adoption. Payments and signing of cofounder instruments remain external.
+
+Source: `apps/web/src/lib/legal/documents.json`. Regenerate with `node scripts/export-legal-pack.mjs`. The same text is available at `/legal` and through individual Markdown downloads.
+
+---
+
+# Platform terms of service
+
+Version: platform_2026_09_r2_draft
+
+Audience: All members
+
+Status: DRAFT — NOT IN FORCE
+
+The rules for using Counterpart, the limits of the platform's role, and protections for records, content and fair dispute handling.
+
+## Before adoption
+
+- Identify the legal operator, registered address and monitored legal contact.
+- Confirm Philippine governing law and the proposed liability allocation with counsel.
+- Set a future effective date, preserve the current version and implement acceptance records before adoption.
+
+## 1. Who operates the service
+
+Counterpart is operated by [OPERATOR_LEGAL_NAME], of [OPERATOR_BUSINESS_ADDRESS], [OPERATOR_COUNTRY] (Counterpart, we or us). Legal notices may be sent to [LEGAL_CONTACT_EMAIL]. These terms govern your use of the website and related account, application, engagement and support tools. They take effect only on [EFFECTIVE_DATE] after publication and the required acceptance process.
+
+You must be at least 18, have legal capacity, provide accurate account information and have authority to act for any organization you represent. A trading name or venture profile does not identify the contracting legal person by itself. You are responsible for your credentials and authorized account activity; report suspected unauthorized access promptly.
+
+## 2. Our role and your agreement with other members
+
+Counterpart helps people discover ventures and jobs, exchange applications, record accepted terms, track work and compensation, and request support. Each builder, employer and counterpart is responsible for their own representations, authority and performance. Counterpart is not a party to an engagement merely because it hosts the record. If Counterpart's operator itself engages you, it must identify itself as a contracting party in a separate agreement.
+
+We do not provide escrow, custody, payment processing, investment brokerage, legal representation or a guarantee of another member's performance. Email or optional identity verification does not certify solvency, company authority, product quality, safety or future results. These descriptions do not exclude duties that applicable law imposes on us.
+
+## 3. Applications, offers and changing terms
+
+A listing, application, shortlist or invitation to discuss work does not start an engagement. Ventures in development may accept applications while their product or commercial terms are still being prepared. Applicants should assess the disclosed stage. Productive work must wait for the relevant accepted paid terms; an application must not be used to obtain unpaid client work.
+
+For a commercial engagement, the builder proposes a saved offer and the invited counterpart accepts that exact version before work starts. Offers expire after 14 days. Continuing beyond the paid trial requires both parties' recorded agreement. Job offers have their own written terms and acceptance. Public listing edits, a new platform policy or a performance entry do not amend an existing contract. Changes to scope, fees, ownership or duration require the affected parties' express agreement.
+
+## 4. Payments, taxes and company ownership
+
+Members arrange and make payments outside Counterpart. A reported payment is the payer's assertion; an acknowledgment is the recipient's assertion. Neither is bank verification or a platform guarantee. Keep suitable evidence and use the claim and review tools for errors. Agree currency, due dates, eligible revenue, attribution, deductions, expenses and any post-exit commission tail before starting. No subscription, placement fee or commission is owed to Counterpart unless separately disclosed and expressly agreed before it is incurred.
+
+Each party must meet applicable tax, invoicing, withholding, employment and benefits duties. Describing someone as a partner, contractor or intern does not determine their legal status or waive mandatory rights. Cash compensation and validly accrued rights do not disappear when access ends.
+
+An equity percentage, performance score, grant entry or vesting calculation does not issue or transfer shares. Cofounder rights require the appropriate external signed instruments, corporate approvals and other legal steps. Company records and valid instruments govern ownership. Counterpart is not an authoritative share register and does not invite the public to invest through these tools.
+
+## 5. Accurate listings and responsible conduct
+
+Keep material claims about products, revenue, company identity, compensation and vacancies accurate and current. Disclose development status and material limitations. Publish only content you have the right to use. Do not impersonate others, fabricate traction or receipts, submit duplicate claims, make unlawful investment solicitations, misclassify workers to avoid mandatory protections, demand applicant deposits, harass, discriminate unlawfully, or retaliate against a good-faith complaint.
+
+Do not compromise accounts, distribute malware, evade access controls, scrape private records or use personal information for unrelated solicitation. Permission to view information is not permission to republish it. The conduct and complaints policy explains how reports are handled; it must be adopted with these terms to form part of them.
+
+## 6. Your content and our limited permission to use it
+
+You retain rights you hold in your content. You grant us a non-exclusive, worldwide, royalty-free permission to host, copy, format, transmit and display that content only as reasonably necessary to operate, secure and support the service, carry out your sharing choices, and meet lawful obligations. We may use service providers for those purposes. This permission does not transfer ownership or authorize unrelated advertising use of private work.
+
+Public venture and job content can be viewed and copied by others. Private applications, messages and evidence are shared according to the service's access rules. Removing a public listing cannot recall copies made by recipients or search engines. On closure, our permission ends except for retained records needed for lawful recordkeeping, disputes, backups awaiting normal expiry or rights already granted to another contracting party. Ownership of engagement work must be addressed separately between its parties.
+
+## 7. Confidentiality and privacy
+
+Use another member's non-public information only for the application, engagement or support purpose for which it was shared, or another authorized lawful purpose. Protect access credentials and restrict onward disclosure to people who need the information and are bound to protect it. Confidentiality does not prohibit lawful reporting to authorities, obtaining professional advice or exercising legal rights.
+
+The privacy notice describes personal-data processing and your rights. Acknowledging that notice is not blanket consent to optional processing. Do not upload unnecessary identity documents, payment-card details, passwords or third-party personal data. Members who use applicant or customer data for their own business purposes remain responsible for that processing.
+
+## 8. Moderation, suspension and closing an account
+
+We may request clarification, limit visibility, hide a listing or restrict access when reasonably necessary to address misleading content, abuse, security incidents, legal duties or material violations. We aim to give a reason and an opportunity to respond where lawful and practicable. Immediate protective action may be needed. We do not promise to pre-screen every listing or investigate every dispute as a court would.
+
+You may ask us to review a moderation decision or close your account through Support or [LEGAL_CONTACT_EMAIL]. We consider the evidence and proportionality of restrictions. Closure and suspension do not cancel debts, transfer intellectual property, remove lawful ownership or erase relevant evidence. Where access is restricted, request necessary records through the contact above; disclosure remains subject to identity checks and other people's rights.
+
+## 9. Availability, risk and responsibility
+
+We use reasonable care to operate the service, but cannot promise uninterrupted access, error-free records or a particular business result. Maintain your own copies of essential agreements and evidence, check calculations, and report discrepancies. Third-party websites and services have their own terms. Mandatory warranties, remedies and statutory duties remain unaffected.
+
+To the extent permitted by law, neither party is liable to the other under these platform terms for indirect or consequential losses that were not reasonably foreseeable. For other claims arising from the platform service, our proposed aggregate contractual liability is limited to the greater of PHP 25,000 or fees you paid directly to Counterpart for the service during the preceding 12 months. This limit does not apply to fraud, wilful misconduct, gross negligence, our breach of confidentiality or data-protection duties, or liability that cannot lawfully be limited. It does not cap amounts owed under a separate engagement or bind a court's mandatory remedies.
+
+You remain responsible for loss caused by your unlawful conduct or breach to the extent established by agreement or a competent forum. These terms do not impose a blanket indemnity for our own wrongdoing or authorize automatic deductions from compensation.
+
+## 10. Complaints, governing law and legal remedies
+
+Send a platform complaint with the relevant record, requested remedy and safe contact details to Support or [LEGAL_CONTACT_EMAIL]. For engagement disputes, use the agreed process and the engagement review tools. We may facilitate communication and record an administrative outcome. We do not issue a binding judicial award, transfer money or determine legal share ownership through a support decision.
+
+The proposed governing law is the law of the Philippines, subject to mandatory protections and conflict-of-laws rules that apply to the parties. Courts and authorities with lawful jurisdiction remain available. There is no mandatory private arbitration, exclusive distant venue, class-action waiver or contractual shortening of statutory claim periods in these terms. Urgent relief and reports to regulators or law enforcement do not require waiting for internal review.
+
+## 11. Notices, updates and the complete platform agreement
+
+We send service notices through your registered email or account. Keep your details current. Material changes will have a new version and effective date and will be communicated before taking effect where practicable. We will obtain renewed acceptance where required; a publication date alone does not prove acceptance. Changes apply prospectively and do not rewrite an accepted engagement.
+
+These terms and the policies expressly incorporated at adoption govern the platform relationship. A separately accepted engagement governs the work between its parties; a valid external corporate instrument governs its subject matter. Mandatory law prevails in every case. If a provision is unenforceable, the remaining provisions continue so far as lawful. A delay in enforcement is not a waiver. Provisions intended to survive, including accrued obligations, confidentiality, record permissions and dispute provisions, survive closure to the extent appropriate.
+
+## Research references
+
+These references informed preparation; they do not certify this draft or replace advice on the actual arrangement.
+
+- [Civil Code of the Philippines: contractual limits and mandatory law](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/53360)
+- [Electronic Commerce Act (Republic Act 8792)](https://www.gppb.gov.ph/wp-content/uploads/2023/06/Republic-Act-No.-8792.pdf)
+- [DOLE: the actual working relationship determines employment status](https://dole.gov.ph/news/delivery-riders-protected-by-labor-law-contract-dole/)
+
+---
+
+# Privacy and cookie notice
+
+Version: privacy_2026_09_r2_draft
+
+Audience: Members and visitors
+
+Status: DRAFT — NOT IN FORCE
+
+What the platform collects, why it uses it, who receives it, and how people can exercise privacy rights.
+
+## Before adoption
+
+- Confirm the personal information controller and privacy contact.
+- Approve and implement the retention schedule and provider arrangements before promising fixed deletion periods.
+- Review the actual Didit workflow and a separate sensitive-data consent notice before enabling identity verification.
+
+## 1. Responsibility and contact
+
+[OPERATOR_LEGAL_NAME], of [OPERATOR_BUSINESS_ADDRESS], [OPERATOR_COUNTRY], operates Counterpart and is responsible for personal information processed for the platform purposes described here. Contact [PRIVACY_CONTACT_EMAIL] or submit a privacy request through Support. You can use the email route without an active account. Proposed effective date: [EFFECTIVE_DATE].
+
+This notice explains processing; it is not a request to consent to every use. Where consent is the appropriate basis, we seek a specific choice separately. A builder, employer or external service may act as a separate controller for information it receives and uses for its own purposes.
+
+## 2. Information and where it comes from
+
+You provide account details such as name, email, roles and optional profile details; listings and product images; application answers and evidence links; offer terms and responses; work reports and chat; deal, commission and fee evidence; payment references; support requests and cofounder-document references. Other participants provide their messages, offers, reports, payment assertions and review evidence involving you.
+
+The service creates password hashes, session and account-recovery records, timestamps, agreement versions and fingerprints, notifications, delivery attempts, moderation history and technical security records. Hosting and infrastructure services may process IP addresses, browser or device metadata, request logs and error information. Avoid including unrelated personal data in free-text fields or linked documents.
+
+## 3. Purposes and lawful grounds
+
+Account access, requested applications, offers, work records and service communications use information needed to provide the service and take steps you request in connection with a contract. Security, abuse prevention, reliability, evidence preservation and proportionate support review may rely on legitimate interests after considering the effects on individuals. Legal disclosures and records required by law rely on the relevant legal obligation.
+
+We do not treat these grounds as interchangeable permission for any use. Sensitive personal information requires a separate applicable condition under law. Consent, where used, must be informed and specific and can be withdrawn for future consent-based processing. Withdrawing consent does not invalidate prior lawful processing or remove an independent legal retention duty. We do not sell personal information or use private engagement content for unrelated advertising.
+
+## 4. Public content and private records
+
+Published venture and job listings, including their images and business claims, are public and may appear in search engines and link previews. Product-image uploads are intended for public display. Do not upload IDs, private contracts or confidential payment evidence as listing images.
+
+Applications are shared with the relevant builder or hiring manager. Engagement messages, agreements, compensation and evidence are available to the parties and authorized administrators as needed for operations, security or review. Investor status alone does not give access to private engagement records. Support requests are visible to their requester and authorized administrators; an engagement review may be visible to both parties. Administrative case notes are not shown in the member request view, subject to lawful disclosure and access rights.
+
+An external evidence or signed-document link has its own permissions. A private screen does not make a publicly accessible linked file private. Limit external sharing to the intended recipients and consider redaction before submitting a link.
+
+## 5. Service providers and overseas processing
+
+The platform uses Vercel and Northflank for hosting, DigitalOcean for its database, Cloudflare for network services and R2 object storage, Upstash for queue or rate-limit infrastructure, Ably for real-time messaging and ZeptoMail for email delivery. Each receives information relevant to its function; email providers receive recipients and message content, for example. Provider operations and support may involve countries outside the Philippines.
+
+Provider use must be covered by appropriate contractual, security and access arrangements. Overseas processing does not remove our responsibility under applicable privacy law. We may also disclose necessary information to professional advisers, lawful authorities or a business successor where legally permitted, with suitable safeguards and notice where required. We do not give prospective investors blanket access to member records.
+
+## 6. Optional identity verification
+
+When enabled, optional identity verification uses a Didit-hosted flow. The configured checks may involve identity documents, photographs, liveness or biometric processing. The exact checks, controller and processor roles, storage locations, retention and any consent request must be explained before you start. Ordinary account use does not require optional identity verification; email verification is a separate security step for making or accepting offers.
+
+The current Counterpart integration sends an internal user reference and workflow identifier and retains verification-session identifiers, a provider-flow link, status, timestamps and webhook receipt references. It does not persist identity-document images or the full verification payload in its application database. This does not describe everything the provider may collect or retain. Do not send identity documents through support, chat or listing uploads. A verification result does not prove company authority or commercial reliability, and you can request human review of a related concern.
+
+## 7. Cookies, notifications and calculated results
+
+The cp_session cookie maintains signed-in access. Sessions expire after 14 days unless revoked earlier; logout or account-security action can revoke a session. Browser cookie controls may prevent sign-in. This notice does not authorize advertising trackers or optional analytics: assess and disclose any such addition, and obtain a choice where required, before enabling it.
+
+We send transactional messages about account security and activity. Marketing would require a separate appropriate basis and an opt-out. The service calculates fees, commissions, performance summaries and illustrative vesting from recorded inputs. Those calculations and verification statuses do not automatically issue shares, establish legal employment status or conclusively resolve a dispute. Ask for correction or human review if a result appears wrong.
+
+## 8. Retention and account closure
+
+We retain identifiable information only while reasonably necessary for the specified purpose, applicable legal duties or the establishment, exercise or defence of claims. Closing an account starts a review of what may be deleted, anonymized or restricted. Accepted agreements, compensation evidence and relevant dispute records may need to outlast account access; unnecessary profile content and unrelated attachments should not be retained simply because some financial records must remain.
+
+An internal retention schedule must define review dates, deletion owners and provider and backup expiry. Until those controls are approved and implemented, we do not promise an automatic deletion deadline. We explain material reasons for refusing or delaying a request where lawful, review legal holds, and remove or anonymize information when no valid reason remains. External recipients may have their own lawful records; we cannot recall every prior public copy.
+
+## 9. Security and incident handling
+
+Controls include password hashing, hashed and revocable session tokens, access checks, protected recovery flows and signed integration callbacks. We limit operational access to people who need it, and must maintain suitable provider, incident and access-review procedures. These safeguards reduce risk; they do not guarantee that every system or recipient is secure.
+
+Report suspected exposure promptly to [PRIVACY_CONTACT_EMAIL], including the affected record and time without sending additional sensitive data. We assess incidents, preserve appropriate evidence, contain exposure, and notify affected people and authorities when required by applicable law. We do not require you to wait for an internal investigation before seeking help from an authority.
+
+## 10. Your rights and requests
+
+Depending on applicable law and the circumstances, you may request information about processing, access, correction, objection, erasure or blocking, portability, withdrawal of consent and available remedies, and file a complaint with the Philippine National Privacy Commission or another competent authority. These rights have lawful conditions and exceptions; a disagreement with a payment claim is not by itself grounds to erase another person's evidence.
+
+Send your account email, the relevant request and a safe reply address to [PRIVACY_CONTACT_EMAIL] or Support. We may ask for proportionate verification, and will avoid collecting a full identity document when a less intrusive method is sufficient. An authorized representative may need evidence of authority. We will assess the request within applicable legal periods, explain necessary clarification or a lawful limitation, and protect other people's information in any response.
+
+## 11. Children and updates
+
+Counterpart accounts and engagements are intended for adults aged 18 or older. If you believe a child has supplied personal information, contact us so we can assess removal and any protective steps. This age restriction does not erase rights children have under applicable law.
+
+We identify material revisions with a new date and version and communicate them as appropriate. A new notice does not retrospectively create consent or authorize incompatible new uses. The operative notice and previous versions should remain available after adoption.
+
+## Research references
+
+These references informed preparation; they do not certify this draft or replace advice on the actual arrangement.
+
+- [National Privacy Commission: Data Privacy Act](https://privacy.gov.ph/data-privacy-act/)
+- [National Privacy Commission: implementing rules](https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/)
+- [National Privacy Commission: data subject rights](https://privacy.gov.ph/data-subject-rights/)
+- [NPC Advisory Opinion 2018-013: a privacy notice is not consent](https://privacy.gov.ph/wp-content/uploads/2022/01/AdOpNo.2018-013.pdf)
+
+---
+
+# Conduct, moderation and complaints
+
+Version: conduct_2026_09_draft
+
+Audience: Members and administrators
+
+Status: DRAFT — NOT IN FORCE
+
+Clear listing standards, evidence handling, moderation review and a fair route for complaints and payment disputes.
+
+## Before adoption
+
+- Assign named operations and privacy owners and a backup reviewer.
+- Confirm a monitored email route for people who cannot sign in.
+- Approve response targets in the internal operations runbook; do not advertise an unstaffed service-level guarantee.
+
+## 1. Honest opportunities
+
+State the real venture or employer, development stage, proposed responsibilities and compensation. Distinguish aspirations from achieved traction. Do not invent users, sales, testimonials, funding, company approvals or ownership rights. Correct material inaccuracies promptly and stop accepting applications for a role that no longer exists.
+
+A development listing may receive applications before its commercial terms are complete. Explain that limitation. No offer should be sent until required paid terms are ready. Do not request productive unpaid trials, applicant deposits, payment to secure an interview, misleading internships, or work that would unlawfully avoid employment protections.
+
+## 2. Respectful and lawful use
+
+Do not harass, threaten, exploit, unlawfully discriminate, impersonate, dox or retaliate. No malware, credential theft, account trading, unauthorized access, fraudulent receipts, duplicate claims, unlawful investment solicitation or attempts to evade a moderation restriction. Use another person's data only for an authorized lawful purpose.
+
+Submit only content and external links you may lawfully share. Public images must be suitable for public distribution. Keep confidential agreements, identity documents and customer data out of public listing assets. Obtain necessary permission before disclosing another business's non-public information.
+
+## 3. Report a concern
+
+Use Report listing on a venture, Support for a service or account concern, or the engagement review flow for work or compensation disputes. If you cannot sign in, use [LEGAL_CONTACT_EMAIL]. Include the record or URL, what happened, dates, a concise explanation, proportionate evidence and the outcome you request. Do not publish allegations or sensitive documents simply to obtain attention.
+
+Report immediate threats to the appropriate emergency or law-enforcement service; Counterpart is not an emergency service. Privacy incidents should also go to [PRIVACY_CONTACT_EMAIL]. A good-faith report does not require proving every fact in advance, and an unproven allegation is not automatically a malicious complaint.
+
+## 4. Review and protective action
+
+An authorized administrator can assign the case, request clarification, review relevant records, note a reasoned outcome and reopen a case if material new information emerges. We seek a response from an affected member where safe and appropriate. Reviewers should disclose conflicts and transfer a case where practical. Access to evidence is limited by need, confidentiality and privacy rights.
+
+Possible responses include a correction request, warning, temporary hiding of a listing, restoration, or referral for an account or security action. We may act urgently to contain credible fraud, exposure or threats, or comply with law. Listing moderation does not decide whether a private contract is valid, cancel debt, erase evidence or transfer ownership. We may limit details if disclosure would expose another person or compromise a lawful investigation.
+
+## 5. Payment disagreements
+
+Keep the claim, collection or fee period, eligible revenue, attribution evidence and external payment reference separate. A payer should explain the specific disputed amount and grounds and pay undisputed amounts when due. A recipient should acknowledge only money actually received. Do not mark an unpaid sum as paid to close a case.
+
+Record partial settlements, refunds, chargebacks and corrected amounts in a dated reconciliation accepted by the affected parties; do not manufacture a new receipt or silently overwrite evidence. The current service does not execute transfers, refunds or partial settlements. Its administrative claim status is a record for the parties, subject to their agreement and lawful remedies. Resolving a support case alone does not settle a claim or release either party.
+
+## 6. Reviewing a decision
+
+Request reconsideration through Support or [LEGAL_CONTACT_EMAIL], identify the case and decision, and explain a factual error, missing evidence or disproportionate action. Another administrator should review where staffing and conflicts permit. We can correct or reopen a case and will record the reason. Repeated abusive submissions may be limited; presenting a legitimate unresolved concern is not abuse.
+
+There is no policy deadline that waives your statutory rights. Internal review does not prevent a complaint to a regulator, a labor claim, urgent relief, mediation, arbitration agreed separately, or court proceedings. Counterpart does not promise a binding arbitral decision through its support tools.
+
+## 7. Confidentiality, records and outcomes
+
+Share only relevant evidence and redact unnecessary personal or financial details. We do not promise absolute anonymity: a fair investigation or lawful disclosure may require sharing relevant allegations or facts. Internal administrative notes are not part of the normal requester view. Applicable access and disclosure obligations still apply.
+
+The requester can see the recorded resolution; engagement outcomes may be shared with both parties. We retain a proportionate history for accountability under the privacy notice and retention process. A record described as resolved means the administrative review is closed, not that every legal dispute has ended.
+
+## Research references
+
+These references informed preparation; they do not certify this draft or replace advice on the actual arrangement.
+
+- [NPC: transparency, proportionality and privacy safeguards](https://privacy.gov.ph/data-privacy-act/)
+- [DTI: Internet Transactions Act resources](https://ecommerce.dti.gov.ph/related-laws-policy-issuance/)
+
+---
+
+# Paid commercial engagement agreement
+
+Version: operator_terms_2026_09_r2_draft
+
+Audience: Builders and commercial counterparts
+
+Status: DRAFT — NOT IN FORCE
+
+A proposed agreement for a paid trial and continued engagement, with clear compensation, ownership, exit and dispute terms.
+
+## Before adoption
+
+- Identify both legal parties and signatory authority; an account display name is not enough.
+- Complete the commercial schedule and any IP schedule before acceptance.
+- This proposed text is not the current operator_v1 template. Introduce a new template version and acceptance flow when adopting it.
+
+## 1. Parties, authority and scope
+
+[CONTRACTING_PARTY_LEGAL_NAME], of [CONTRACTING_PARTY_ADDRESS], represented with authority by [BUILDER_LEGAL_NAME] (Builder), engages [COUNTERPART_LEGAL_NAME], of [COUNTERPART_ADDRESS] (Counterpart), for [VENTURE_NAME]. Each confirms capacity and authority to enter this agreement. Counterpart's platform operator is not a party unless expressly named and separately accepts that role.
+
+Counterpart responsibilities and deliverables: [OPERATOR_SCOPE]. Builder commitments, access and product support: [BUILDER_COMMITMENTS]. Record dependencies, expected availability, acceptance criteria and any excluded work in the schedule. No party may make commitments in the other's name without written authority. Material additions require a mutually accepted scope and compensation change before the additional work.
+
+## 2. Offer, start and duration
+
+The builder's recorded offer and the counterpart's acceptance must refer to the same completed version, schedules and attachments. An unanswered platform offer expires after 14 days. Work begins on acceptance. The paid trial is [TRIAL_DAYS] days. Continuing after the trial requires a recorded builder proposal and counterpart acceptance; passing a target alone does not extend the engagement.
+
+If continued, the engagement ends no later than [TERM_DAYS] days after acceptance unless ended earlier or replaced by a further accepted agreement. A separately accepted cofounder continuation may remove that fixed expiry while preserving cash terms, as expressly stated in that continuation. No party must perform productive work before agreement on compensation.
+
+## 3. Commercial schedule
+
+Monthly service fee: PHP [MONTHLY_FEE_PHP], prorated for active calendar days in each month. Sales commission: [COMMISSION_RATE_PCT]% of eligible collected revenue. At least one cash component must be positive. Eligible revenue, VAT treatment, exclusions, refunds and chargebacks: [ELIGIBLE_REVENUE]. Attribution, existing customers, split credit, renewals and supporting evidence: [ATTRIBUTION_RULE]. Specify these definitions rather than relying on a weekly total.
+
+Payment is due [PAYMENT_DAYS] days after the relevant collection or fee period ends. Agreed expenses, advance approvals, receipts and reimbursement timing: [EXPENSE_POLICY]. External payment method and recipient details are to be exchanged privately and verified through a trusted channel. Each party handles its applicable tax and invoicing duties; a required withholding must be identified and accompanied by the appropriate supporting certificate. No other deduction or offset is authorized merely by a platform status.
+
+## 4. Attribution, evidence and claims
+
+Register sourced deals during the active engagement before collection and preserve evidence of introduction, attribution and receipts. A deal reference identifies the opportunity, not a right to commission on all company revenue. Record allocation among contributors in writing. Each collection reference may support only one claim for the same compensation; several legitimate collections on one deal require distinct evidence.
+
+The builder must provide reasonably necessary collection and attribution information and raise specific objections promptly. Deliberately withholding records or access does not extinguish earned compensation. Fees may be claimed after month-end or departure, and earned claims remain reviewable after the engagement ends. A late administrative claim does not itself waive a valid underlying right, subject to applicable law and the agreed earning conditions.
+
+The parties must investigate a disputed amount, preserve its evidence and pay undisputed sums when due. A dispute does not restart a due date or automatically forfeit compensation. Refunds, corrections and partial settlements require a dated reconciliation identifying the original entry, reason, affected amount and both parties' positions. The current platform does not automatically calculate all such adjustments; use the agreed review process and keep the reconciliation with the record.
+
+## 5. External payment and acknowledgment
+
+The builder makes payment directly outside Counterpart and records an accurate reference. The counterpart confirms receipt only after verifying cleared funds. A screenshot or payment report is not conclusive proof of receipt. An acknowledgment relates to the identified payment and is not a general release of unrelated claims unless a separately agreed settlement expressly says so.
+
+Counterpart provides recordkeeping, not escrow, a payment guarantee or debt collection. Bank fees, foreign-exchange costs and any permitted payment currency variation must be expressly agreed. If the parties settle outside the displayed amount, preserve a reconciliation; do not label the full claim paid when only part was received.
+
+## 6. Relationship, compliance and conflicts
+
+The parties intend a commercial services relationship only to the extent supported by their actual arrangement and applicable law. They must assess control, economic dependence, work practices and other relevant facts. Nothing waives minimum pay, benefits, labor remedies or other mandatory protections if an employment relationship exists. An employment arrangement needs an appropriate employment agreement and payroll compliance.
+
+Each party uses reasonable skill and care, obeys applicable laws, avoids bribery and deceptive claims, and promptly discloses a material conflict that could compromise this engagement or confidential information. The agreement creates no general exclusivity or non-compete. Neither party may use the other's confidential information for a competing purpose.
+
+## 7. Confidentiality and data
+
+Protect non-public business, product, customer, pricing, security and financial information received for this engagement. Use it only for the agreed work; restrict access to authorized people who need it and are bound to protect it. Exceptions cover information lawfully public, already known without restriction, independently developed or properly received from another source. Lawful disclosures to advisers or authorities remain possible with appropriate safeguards and notice where permitted.
+
+Use only authorized accounts and the minimum necessary personal data. Do not copy customer lists for unrelated use or put secrets into public repositories, public uploads or external AI tools without authorization. Notify the other party promptly of suspected loss or unauthorized disclosure and cooperate on containment and legally required responses. These obligations survive departure while the information remains protected; trade-secret and statutory duties are not limited by account closure.
+
+## 8. Work product and intellectual property
+
+Identify pre-existing tools, code, templates and other background IP in [BACKGROUND_IP_SCHEDULE]; they remain with their owner. Third-party and open-source materials remain subject to their licenses and must be disclosed when material to the deliverable. Do not incorporate materials that prevent the agreed use without prior written approval.
+
+For original deliverables specifically created within the agreed scope, the counterpart assigns to the builder the transferable economic rights it owns, effective when the compensation properly attributable to those deliverables is fully paid. This written provision is intended to document that assignment; complete any additional instrument or formality required by law. Until payment, the builder has a limited permission to review the deliverables for the engagement. Agree the compensation allocation and any production-use permission before relying on this clause in a commission-only arrangement.
+
+Any retained background IP embedded in a paid deliverable is licensed on a non-exclusive, perpetual, worldwide, royalty-free basis only as needed to use, maintain and modify that deliverable for the agreed business purpose, subject to disclosed third-party terms. Moral rights and other non-transferable rights remain as required by law. No ownership transfer of unrelated inventions, personal portfolio work or pre-existing materials is implied. A completed signed IP schedule may refine these rules expressly.
+
+## 9. Departure, handover and commission tail
+
+Either party may end the engagement by recorded notice, subject to mandatory law and any expressly agreed additional notice obligation. The platform's recorded departure stops new work and new deal registration; it does not adjudicate whether the termination was lawful or discharge a separately owed notice payment. A serious security or legal concern may require immediate suspension of access.
+
+Eligible collections on deals registered before departure remain commissionable for [TAIL_DAYS] days after departure under the same attribution and revenue definitions. There is no automatic lifetime commission or company-wide revenue share. Accrued fees, earned commission, approved expenses and other surviving obligations remain payable even when the trial does not continue.
+
+Provide a reasonable handover of completed work, approved business records and necessary access details through secure channels. Revoke access that is no longer needed. Return or delete unnecessary confidential copies, subject to lawful record retention. Do not hold credentials hostage or erase business records. Identify any unfinished work and final reconciliation in writing.
+
+## 10. Cofounder status and ownership remain separate
+
+This agreement grants no shares, options, profit interest or promise of automatic cofounder status. Performance goals guide the work and evaluation; they do not issue ownership. A founder appointment or equity grant requires a separate instrument identifying the legal entity, instrument, units, capitalization basis, vesting, approvals and departure treatment.
+
+The parties must obtain the required company actions and keep signed documents outside the platform with appropriate access controls. A platform grant entry or calculated vested amount is a record, subject to the valid instrument and authoritative company records. Leaving does not by itself cancel validly acquired rights.
+
+## 11. Disputes, responsibility and amendments
+
+Agreed escalation, governing law and competent forum: [DISPUTE_PROCESS]. The parties should exchange the relevant facts and attempt good-faith resolution, while remaining free to seek urgent relief or use mandatory remedies. A Counterpart review can preserve evidence and an administrative outcome; it is not a substitute for the agreed legal forum. No contractual provision here shortens statutory filing periods.
+
+Each party is responsible for its breach and wrongful acts as determined under applicable law. There is no uncapped blanket indemnity, automatic liquidated penalty, general non-compete or forfeiture of earned fees in this template. Any negotiated liability cap or insurance requirement must be separately stated and must preserve non-excludable duties.
+
+The accepted agreement and identified schedules form the parties' agreement for this scope. Specific, mutually signed amendments control their stated subject matter; mandatory law prevails. Changes require both parties' express agreement. Keep the exact text, populated terms, acceptance evidence and amendments. Existing accepted versions must remain intact. Confidentiality, IP rights, accrued payment obligations and necessary dispute provisions survive termination.
+
+## Research references
+
+These references informed preparation; they do not certify this draft or replace advice on the actual arrangement.
+
+- [Intellectual Property Code: commissioned work and copyright ownership](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/4371)
+- [DOLE: classification depends on the actual relationship](https://dole.gov.ph/news/delivery-riders-protected-by-labor-law-contract-dole/)
+- [Electronic Commerce Act](https://www.gppb.gov.ph/wp-content/uploads/2023/06/Republic-Act-No.-8792.pdf)
+
+---
+
+# Mutual confidentiality and IP schedule
+
+Version: nda_ip_2026_09_draft
+
+Audience: Engagement parties
+
+Status: DRAFT — NOT IN FORCE
+
+An external signing template for protecting shared information and documenting exactly which work and rights change hands.
+
+## Before adoption
+
+- Complete every schedule and identify the agreement this supplements.
+- Choose a concrete allocation of compensation to assigned work, especially for commission-only services.
+- Obtain both parties' signatures externally and retain a private, accessible copy.
+
+## 1. Parties and permitted purpose
+
+This schedule is between [PARTY_A_LEGAL_NAME_AND_ADDRESS] and [PARTY_B_LEGAL_NAME_AND_ADDRESS], effective [SIGNED_EFFECTIVE_DATE], for [PERMITTED_PURPOSE] in connection with [ENGAGEMENT_REFERENCE]. Each may disclose or receive protected information. Only the completed and signed schedule creates the proposed obligations; this draft does not itself bind either party.
+
+## 2. Protected information and exclusions
+
+Confidential information means non-public information disclosed in any form that is marked confidential or reasonably understood to be confidential from its nature or context, including product plans, source code, credentials, customer and supplier data, pricing, financial information and the non-public terms of negotiations. It excludes information the recipient can show was lawfully known without restriction, became public without breach, was independently developed without use of the disclosure, or was lawfully obtained from an unrestricted source.
+
+Personal data remains subject to applicable law even if it appears in a public source. Confidentiality is not permission to collect or disclose unnecessary personal information.
+
+## 3. Use, access and compelled disclosure
+
+Use protected information solely for the permitted purpose. Apply at least reasonable care and no less care than for similarly sensitive information of your own. Give access only to authorized personnel and advisers who need it and are subject to appropriate confidentiality obligations; remain responsible for disclosures you authorize. No public case study, logo use or disclosure to an external AI service is permitted without the relevant owner's authorization.
+
+A recipient may disclose information as legally required, or for protected reporting or professional advice. Where lawful and practical, give advance notice, disclose only what is required and seek appropriate confidential treatment. Nothing prevents reporting suspected wrongdoing or exercising a statutory right.
+
+## 4. Security, return and survival
+
+Report suspected unauthorized access or disclosure to [SECURITY_CONTACTS] promptly, provide known facts without avoidable delay, and cooperate to contain harm. Each party remains responsible for its own legally required notices. Stop use and return or delete unnecessary copies when the purpose ends or the owner reasonably requests, except for records lawfully retained to meet legal duties or preserve claims. Restrict and protect any retained copies.
+
+Ordinary contractual confidentiality continues for three years after the last disclosure under this schedule. Trade secrets remain protected while they qualify as trade secrets, and personal-data duties continue for as long as applicable law requires. This duration does not authorize use of another party's IP or override a longer expressly agreed protection.
+
+## 5. Complete the IP inventory
+
+Commissioned deliverables and acceptance criteria: [DELIVERABLES_AND_CRITERIA]. Creator and intended rights recipient for each item: [CREATOR_AND_RECIPIENT]. Background materials retained by each owner: [BACKGROUND_IP_INVENTORY]. Third-party or open-source components, license conditions and attribution: [THIRD_PARTY_MATERIALS]. Approved production use before transfer, if any: [INTERIM_LICENSE]. Write 'none' where a schedule is genuinely empty rather than leaving it uncertain.
+
+Compensation attributable to each assigned deliverable and the payment trigger: [IP_COMPENSATION_ALLOCATION]. For a commission-only arrangement, specify a clear amount or objective payment event; do not make ownership depend on an undefined stream of future commissions. Other commission and fee obligations remain separately enforceable.
+
+## 6. Assignment, licenses and exclusions
+
+On full payment of the identified compensation for a deliverable, its creator assigns to the named recipient the transferable economic IP rights it owns in that original commissioned deliverable, for the full lawful duration and territory of those rights. The creator will reasonably assist with further documents needed to perfect the transfer, at the recipient's reasonable cost. Each party warrants that it has authority over rights it purports to grant and will disclose material restrictions.
+
+Background IP remains with its owner. To the extent embedded in an assigned deliverable, its owner grants the recipient a perpetual, non-exclusive, worldwide, royalty-free permission to use, reproduce and adapt it as necessary to use and maintain that deliverable, with authorized service providers and a lawful successor to the relevant business. Disclosed third-party licenses control their own materials. Any broader distribution or sublicensing right must be stated expressly.
+
+No assignment of unrelated inventions, moral rights that cannot lawfully be assigned, trademarks, customer relationships or another person's IP is implied. The parties must agree any legally permissible moral-rights consent specifically; there is no blanket waiver here. Paying for a copy of work and owning copyright are different matters.
+
+## 7. Remedies, precedence and signatures
+
+Either party may seek available urgent relief for misuse; this schedule does not guarantee an injunction or predetermine damages. Governing law and dispute forum: [LAW_AND_FORUM], subject to mandatory rights. This schedule supersedes the engagement's confidentiality or IP terms only to the extent a specific conflict is expressly addressed; all other engagement terms remain intact. Amendments require both parties' written agreement.
+
+Party A authorized signatory: [NAME_TITLE_SIGNATURE_DATE]. Party B authorized signatory: [NAME_TITLE_SIGNATURE_DATE]. Identify attached schedules by title and version. Sign externally using a method suitable for the parties and any required formalities; storing a link on Counterpart is not a substitute for executing this document.
+
+## Research references
+
+These references informed preparation; they do not certify this draft or replace advice on the actual arrangement.
+
+- [Intellectual Property Code of the Philippines](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/4371)
+
+---
+
+# Cofounder and equity term sheet
+
+Version: cofounder_terms_2026_09_draft
+
+Audience: Founders and their legal advisers
+
+Status: DRAFT — NOT IN FORCE
+
+A non-binding preparation document for a separate company-approved equity instrument and continued working arrangement.
+
+## Before adoption
+
+- This is a non-binding term sheet, not a share grant or a complete shareholders' agreement.
+- Use company-specific counsel for corporate approvals, capitalization, tax and securities requirements.
+- The final signed instrument must govern any difference from the platform's illustrative calculations.
+
+## 1. Status, company and parties
+
+This term sheet records proposed commercial points only. It does not create an obligation to invest, issue or transfer securities, appoint a director, employ anyone or complete a transaction. No section is intended to be binding until incorporated into an appropriate separately signed definitive instrument. Existing confidentiality or engagement obligations continue under their own terms.
+
+Issuing company, registration number, jurisdiction and registered address: [COMPANY_DETAILS]. Founder or proposed recipient, address and tax residence: [RECIPIENT_DETAILS]. Existing shareholders and authorized negotiators: [PARTIES_AND_AUTHORITY]. If no company yet exists, identify the planned incorporation and make any grant subject to lawful incorporation and approvals; a venture name cannot issue shares.
+
+## 2. Instrument, capitalization and consideration
+
+Proposed instrument: [SHARES_OPTIONS_OR_OTHER_INSTRUMENT]. Class, rights and number of units: [CLASS_RIGHTS_UNITS]. Current issued, outstanding and fully diluted capitalization, existing options, convertibles and reserved pool: [CAPITALIZATION_SCHEDULE]. State whether any quoted percentage uses issued or fully diluted units, its measurement date and treatment of future dilution.
+
+Subscription or exercise price, consideration, payment date and tax treatment: [CONSIDERATION_AND_TAX]. Required board, shareholder, regulatory or third-party approvals: [APPROVALS]. Check authorized capital, pre-emption, shareholder restrictions and issuance formalities. No platform allocation limit proves that a company has authority or capacity to issue the proposed instrument.
+
+## 3. Role and cash compensation
+
+Cofounder responsibilities, expected involvement, decision authority and reporting: [ROLE_AND_AUTHORITY]. Board appointment, voting rights, reserved matters and deadlock process: [GOVERNANCE]. The title cofounder does not itself confer director, employee, shareholder or agency authority.
+
+Identify the existing commercial engagement and whether it continues, changes or ends: [ENGAGEMENT_CONTINUATION]. Specify cash fees, commission, salary, benefits, expenses and effective dates independently of equity. The current platform cofounder continuation removes the original fixed expiry and continues original cash compensation until a new written agreement or departure; reconcile the definitive document and recorded terms explicitly if another result is intended.
+
+## 4. Vesting and service conditions
+
+Vesting commencement with timezone: [VESTING_START]. Total period, cliff and cadence: [VESTING_SCHEDULE]. State treatment of leave, part-time service, incapacity, death, change of role, termination notice and any agreed acceleration. A 48-month schedule with a 12-month cliff is a discussion starting point, not a legal requirement or an automatic award.
+
+Specify what vests: shares, an option or another right, and what steps are required to exercise or issue it. Identify who certifies satisfaction and how disputes are handled. Counterpart's current calculation uses whole-month anniversaries and a cliff and stops future service accrual at recorded departure. If the signed instrument uses different conditions, record the discrepancy and obtain a manual reconciliation; the displayed number must not override the instrument.
+
+## 5. Departure, transfers and liquidity
+
+Define departure events precisely and distinguish vested from unvested rights: [DEPARTURE_TREATMENT]. Specify any lawful repurchase or forfeiture right, eligible units, price or valuation method, exercise period, notice, payment and dispute safeguards. Do not assume that resignation, a missed KPI or removal from the platform automatically cancels validly acquired shares.
+
+Transfer restrictions, rights of first refusal, tag-along and drag-along provisions, permitted transfers and any buy-sell mechanism: [TRANSFER_TERMS]. Explain how future financing dilutes holdings and whether any protection is expressly granted. Do not promise guaranteed liquidity, dividends, a company valuation or a return on investment.
+
+## 6. IP, confidentiality and implementation
+
+Identify ownership of existing and future venture IP, needed assignments or licenses, approved external materials and any founder background inventions: [IP_SCHEDULE]. Agree confidentiality, data handling and conflict rules separately. Any restrictive covenant must be justified, scoped and reviewed for enforceability; no general non-compete is implied by this term sheet.
+
+List definitive documents and completion steps: [SUBSCRIPTION_OR_OPTION_DOCUMENTS], [SHAREHOLDERS_AGREEMENT], [CORPORATE_RESOLUTIONS], [REGISTER_AND_CERTIFICATES], [TAX_AND_REGULATORY_STEPS]. Confirm applicable tax and securities requirements before making an offer or issuance; do not use this document as a public investment solicitation.
+
+## 7. Signing and the platform record
+
+Have the proper parties execute the definitive documents externally with the required approvals and formalities. Keep complete signed copies and company records in a secure repository accessible to those entitled to them. Record the private document reference, approval reference and a matching summary in Counterpart; do not upload confidential instruments as public images.
+
+A platform acknowledgment confirms the recorded offer or continuation stated there. It does not replace external signatures, company approvals, share issuance or an authoritative register. Preserve prior versions and resolve any mismatch before acceptance. The valid definitive documents, company records and mandatory law govern the legal rights.
+
+## Research references
+
+These references informed preparation; they do not certify this draft or replace advice on the actual arrangement.
+
+- [Revised Corporation Code of the Philippines](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/86463)
+
+---
+
+# Employment offer schedule
+
+Version: employment_schedule_2026_09_draft
+
+Audience: Employers and job applicants
+
+Status: DRAFT — NOT IN FORCE
+
+The written details an employer should complete before a job offer is accepted, with mandatory worker protections preserved.
+
+## Before adoption
+
+- Have a Philippine employment adviser review the actual role, location, classification and minimum requirements.
+- This schedule supplements a suitable employment contract; it is not a contractor agreement.
+- Do not use a 'trial', 'intern' or 'partner' label to bypass mandatory protections.
+
+## 1. Employer, employee and role
+
+Employer legal name, address, registration and authorized signatory: [EMPLOYER_DETAILS]. Employee legal name and contact: [EMPLOYEE_DETAILS]. Position, duties, reporting line, work location or remote-work arrangement and proposed start date: [ROLE_DETAILS]. Identify the real employing entity; Counterpart is not the employer merely because it hosts the listing.
+
+Proposed employment category and any lawful fixed term or probation: [EMPLOYMENT_STATUS_AND_BASIS]. State the actual basis and applicable conditions. Any probationary standards must be communicated as legally required. Do not import the commercial platform's paid-trial duration or immediate-departure mechanics into an employment contract without the appropriate legal treatment.
+
+## 2. Pay and benefits
+
+Basic salary, pay period, payment date and method: [SALARY_SCHEDULE]. Applicable statutory minimums, overtime, holiday and rest-day pay, leave, social contributions, required benefits and payroll withholding: [STATUTORY_ENTITLEMENTS]. Additional allowances, incentives and benefits: [ADDITIONAL_BENEFITS]. Confirm the requirements that apply to the location, role and worker; a platform input does not establish compliance.
+
+If commission or incentives are offered, define earning conditions, attribution, exclusions, computation, due dates, adjustment process and treatment on departure: [INCENTIVE_SCHEDULE]. State whether these are additional to basic pay. No clause may remove legally required wages or benefits. Identify lawful deductions and supporting records; do not charge recruitment deposits or require a waiver of future statutory claims.
+
+## 3. Working arrangements and equipment
+
+Working hours, rest periods, attendance, remote-work arrangements and authorized overtime: [WORK_SCHEDULE]. Equipment, safe access, expense reimbursement and return procedures: [EQUIPMENT_AND_EXPENSES]. Identify applicable workplace, security and data-handling policies and provide copies before requiring compliance. Do not collect irrelevant sensitive information during hiring.
+
+## 4. Confidentiality, IP and fair treatment
+
+Set proportionate confidentiality and IP terms appropriate to employee work, background inventions and applicable ownership rules: [EMPLOYEE_IP_AND_CONFIDENTIALITY]. Preserve lawful reporting, labor rights and access to professional advice. A commercial contractor IP schedule is not automatically suitable for an employee.
+
+Provide a safe route for grievances, harassment and discrimination concerns: [EMPLOYER_GRIEVANCE_CONTACT]. No retaliation for a good-faith report or exercise of legal rights. The employer is responsible for recruitment and employee-data processing under its own notice; Counterpart's notice covers the platform's processing.
+
+## 5. Ending employment and acceptance
+
+Applicable resignation, termination, due-process, final-pay, accrued-benefit and certificate or record procedures: [EXIT_TERMS]. Mandatory law prevails over any platform state or contract wording. Removing access or marking a record ended does not establish lawful dismissal or extinguish wages or benefits.
+
+Attach the complete employment agreement and referenced policies, identify their versions, and allow the applicant to review them before accepting. Any later material amendment requires the appropriate notice and agreement. Employer authorized signature and date: [EMPLOYER_SIGNATURE]. Employee signature and date: [EMPLOYEE_SIGNATURE]. Retain the exact accepted offer and any separately signed documents; do not mark an applicant hired solely because an employer sent an offer.
+
+## Research references
+
+These references informed preparation; they do not certify this draft or replace advice on the actual arrangement.
+
+- [DOLE: conditions of employment](https://dole.gov.ph/book-3-conditions-of-employment/)
+- [DOLE: facts determine employment status](https://dole.gov.ph/news/delivery-riders-protected-by-labor-law-contract-dole/)

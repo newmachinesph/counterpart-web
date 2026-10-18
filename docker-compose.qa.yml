@@ -1,0 +1,58 @@
+# Isolated acceptance environment. No production volumes or data are mounted.
+name: counterpart-qa
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: counterpart
+      POSTGRES_PASSWORD: counterpart
+      POSTGRES_DB: counterpart_qa
+    tmpfs:
+      - /var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U counterpart -d counterpart_qa"]
+      interval: 2s
+      timeout: 3s
+      retries: 20
+  api:
+    image: counterpart-web-api
+    environment:
+      DATABASE_URL: postgresql+psycopg://counterpart:counterpart@db:5432/counterpart_qa
+      CORS_ORIGINS: http://localhost:3011
+    command: sh -c "alembic upgrade head && python -m app.bootstrap && uvicorn app.main:app --host 0.0.0.0 --port 8000"
+    ports:
+      - "127.0.0.1:8011:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+  web:
+    image: counterpart-web-web
+    environment:
+      API_URL: http://api:8000
+      COOKIE_SECURE: "false"
+    ports:
+      - "127.0.0.1:3011:3000"
+    depends_on:
+      api:
+        condition: service_healthy
+  mail:
+    image: axllent/mailpit:v1.27.4
+    ports:
+      - "127.0.0.1:8026:8025"
+  worker:
+    image: counterpart-web-api
+    environment:
+      DATABASE_URL: postgresql+psycopg://counterpart:counterpart@db:5432/counterpart_qa
+      SMTP_HOST: mail
+      SMTP_PORT: 1025
+    command: python -m app.mail_worker
+    depends_on:
+      api:
+        condition: service_healthy
+      mail:
+        condition: service_started

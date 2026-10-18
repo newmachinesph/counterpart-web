@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <title>Counterpart — A working product meets the person who can sell it.</title>
+  <desc>Filipino builders and commercial partners. Counterpart's blue and mango logo on a warm paper background.</desc>
+  <rect width="1200" height="630" fill="#fbfaf7"/>
+  <text x="64" y="90" fill="#0b0f19" font-family="Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="-1">Counterpart</text>
+  <g fill="#0b0f19" font-family="Georgia, serif" font-size="68" letter-spacing="-2">
+    <text x="60" y="225">A working product</text>
+    <text x="60" y="307">meets the person</text>
+    <text x="60" y="389">who can sell it.</text>
+  </g>
+  <text x="64" y="459" fill="#5b6070" font-family="Arial, sans-serif" font-size="25">Filipino builders. Commercial partners.</text>
+  <svg x="836" y="171" width="290" height="331" viewBox="0 0 640 730" fill="none">
+    <path fill="#2440f5" d="M212 12H477Q494 12 506 25L576 95Q592 111 576 127L519 184Q508 196 494 196H294C244 196 211 221 181 263C143 316 87 370 32 425Q12 443 12 423V206C12 100 104 12 212 12Z"/>
+    <path fill="#ffb020" d="M171 361Q182 351 182 365V414C182 484 236 535 306 535H548C593 535 628 570 628 615V649C628 688 602 717 561 717H219C151 717 109 685 69 646C33 611 12 577 12 539C12 523 16 511 28 499Z"/>
+  </svg>
+  <path d="M64 536H1136" stroke="#e4e2db"/>
+  <text x="64" y="581" fill="#2440f5" font-family="Arial, sans-serif" font-size="23">counterpart.ph</text>
+  <text x="1136" y="581" text-anchor="end" fill="#5b6070" font-family="Arial, sans-serif" font-size="20">Build. Partner. Grow.</text>
+</svg>

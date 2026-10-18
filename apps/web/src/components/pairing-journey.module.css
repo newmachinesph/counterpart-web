@@ -1,0 +1,80 @@
+.section {
+  --journey-bg: #0d1220;
+  --journey-text: #f3f2ee;
+  --journey-muted: #adb6c8;
+  --journey-line: #30394c;
+  --journey-blue: #a6b2ff;
+  --journey-green: #9ee1ba;
+  background: var(--journey-bg);
+  color: var(--journey-text);
+  scroll-margin-top: 130px;
+}
+
+.inner { max-width: 1152px; margin: 0 auto; padding: 80px 24px 48px; }
+.heading { display: grid; grid-template-columns: 1.4fr 1fr; align-items: end; gap: 64px; margin-bottom: 68px; }
+.eyebrow { display: flex; align-items: center; gap: 10px; margin-bottom: 22px; font-size: 11px; font-weight: 500; letter-spacing: .14em; text-transform: uppercase; color: var(--journey-muted); }
+.eyebrow span { width: 6px; height: 6px; border-radius: 50%; background: #ffb020; }
+.title { font-family: var(--font-serif), Georgia, serif; font-size: clamp(44px, 5vw, 64px); font-weight: 400; line-height: 1; letter-spacing: -.025em; }
+.title em { color: var(--journey-blue); font-weight: 400; }
+.intro { max-width: 350px; padding-bottom: 4px; font-size: 16px; line-height: 1.75; color: var(--journey-muted); }
+.journey { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 48px; list-style: none; margin: 0; padding: 0; }
+.stage { --stage-color: var(--journey-blue); position: relative; min-width: 0; }
+.stage[data-tone="active"] { --stage-color: #ffca72; }
+.stage[data-tone="completed"] { --stage-color: var(--journey-green); }
+.main { position: relative; min-height: 260px; }
+.marker { position: relative; z-index: 1; display: flex; align-items: center; justify-content: center; width: 44px; height: 44px; border: 1px solid color-mix(in srgb, var(--stage-color) 55%, transparent); border-radius: 50%; color: var(--stage-color); background: var(--journey-bg); font-size: 14px; font-variant-numeric: tabular-nums; }
+.stage[data-tone="completed"] .marker { background: var(--journey-green); color: var(--journey-bg); border-color: var(--journey-green); }
+.connector { position: absolute; top: 21px; left: 60px; right: -32px; height: 1px; background: var(--journey-line); color: var(--journey-muted); }
+.connector span { position: absolute; bottom: 9px; left: 0; font-size: 10px; white-space: nowrap; letter-spacing: .01em; }
+.connector svg { position: absolute; right: -3px; top: -7px; background: var(--journey-bg); }
+.stageLabel { margin-top: 26px; font-size: 10px; font-weight: 500; letter-spacing: .11em; text-transform: uppercase; color: var(--stage-color); }
+.stageTitle { margin-top: 6px; font-family: var(--font-serif), Georgia, serif; font-size: 36px; font-weight: 400; line-height: 1.12; }
+.description { max-width: 300px; margin-top: 14px; font-size: 14px; line-height: 1.7; color: var(--journey-muted); }
+.outcome { display: flex; align-items: center; gap: 8px; margin-top: 18px; color: var(--stage-color); font-size: 11px; line-height: 1.5; }
+.outcome span { flex: 0 0 4px; height: 4px; border-radius: 50%; background: currentColor; }
+.exit { position: relative; padding-top: 32px; }
+.exit::before { content: ""; position: absolute; left: 21px; top: 0; height: 23px; border-left: 1px dashed var(--journey-line); }
+.trigger { margin-bottom: 12px; color: var(--journey-muted); font-size: 10px; line-height: 1.5; }
+.exitCard { padding: 19px 20px; border: 1px solid var(--journey-line); border-radius: 12px; background: #ffffff03; }
+.exitCard h4 { display: flex; align-items: center; gap: 9px; color: #d3d9e5; font-size: 14px; font-weight: 500; }
+.stage[data-tone="proving"] .exitCard h4 { color: #efb4ad; }
+.exitCard p { margin-top: 10px; color: var(--journey-muted); font-size: 12px; line-height: 1.7; }
+.principle { display: flex; align-items: center; gap: 15px; margin-top: 42px; padding-top: 25px; border-top: 1px solid var(--journey-line); }
+.principle > svg { flex-shrink: 0; color: #ffca72; }
+.principle p { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; line-height: 1.7; }
+.principle strong { font-weight: 500; }
+.principle span { color: var(--journey-muted); }
+
+@media (max-width: 900px) and (min-width: 701px) {
+  .journey { gap: 28px; }
+  .connector { right: -16px; }
+  .connector span { font-size: 9px; white-space: normal; max-width: 100px; }
+  .main { min-height: 300px; }
+  .exitCard { padding: 16px; }
+}
+
+@media (max-width: 700px) {
+  .inner { padding: 56px 24px 36px; }
+  .heading { grid-template-columns: 1fr; gap: 22px; margin-bottom: 40px; }
+  .intro { max-width: 420px; font-size: 15px; }
+  .journey { grid-template-columns: 1fr; gap: 36px; }
+  .stage { position: relative; padding-left: 58px; }
+  .main { min-height: 0; }
+  .marker { position: absolute; left: -58px; top: 0; width: 36px; height: 36px; font-size: 12px; }
+  .stage:not(:last-child)::before { content: ""; position: absolute; top: 44px; bottom: -25px; left: 18px; width: 1px; background: var(--journey-line); }
+  .stageLabel { margin-top: 0; padding-top: 3px; }
+  .stageTitle { font-size: 32px; }
+  .description { max-width: none; }
+  .connector { position: static; display: flex; align-items: center; gap: 8px; height: auto; background: none; margin-bottom: 15px; color: var(--journey-muted); }
+  .connector span { position: static; white-space: normal; font-size: 10px; }
+  .connector svg { position: static; transform: rotate(90deg); flex-shrink: 0; }
+  .main { display: flex; flex-direction: column; }
+  .connector { order: 1; margin-top: 18px; margin-bottom: 0; }
+  .exit { padding-top: 24px; }
+  .exit::before { left: 0; top: 5px; height: 12px; }
+  .exitCard { padding: 16px; }
+  .trigger { font-size: 10px; }
+  .principle { align-items: flex-start; margin-top: 32px; }
+  .principle p { display: block; }
+  .principle span { display: block; margin-top: 4px; }
+}

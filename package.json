@@ -1,0 +1,14 @@
+{
+  "name": "counterpart",
+  "private": true,
+  "license": "MIT",
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "npm run dev -w web",
+    "build": "npm run build -w web",
+    "start": "npm run start -w web",
+    "lint": "npm run lint -w web",
+    "test": "npm run test -w web",
+    "typecheck": "npm run typecheck -w web"
+  }
+}

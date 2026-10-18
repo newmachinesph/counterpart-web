@@ -1,0 +1,162 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light dark;
+  --paper: #fbfaf7;
+  --mist: #f1f0eb;
+  --ink: #0b0f19;
+  --ink-soft: #5b6070;
+  --rule: #e4e2db;
+  --rule-strong: #b9b7ae;
+  --brand: #2440f5;
+  --brand-ink: #1b33c9;
+  --brand-soft: #e6e9ff;
+  --mango: #ffb020;
+  --mango-soft: #fff1d6;
+  --green: #118a4e;
+  --green-bg: #e1f4e8;
+  --blue: var(--brand);
+  --blue-bg: var(--brand-soft);
+  --gray: #7b7f8a;
+  --gray-bg: #ecebe6;
+  --red: #d6332a;
+  --red-bg: #fbe5e3;
+  --shadow: 0 1px 2px rgba(11, 15, 25, 0.06), 0 12px 40px -12px rgba(11, 15, 25, 0.18);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #0b0f19;
+    --mist: #131826;
+    --ink: #f3f2ee;
+    --ink-soft: #9aa0b0;
+    --rule: #222838;
+    --rule-strong: #3b4256;
+    --brand: #7a8cff;
+    --brand-ink: #9aa8ff;
+    --brand-soft: #1a2350;
+    --mango: #ffc04d;
+    --mango-soft: #3a2a0c;
+    --green: #4cd48a;
+    --green-bg: #0f3320;
+    --gray: #9aa0b0;
+    --gray-bg: #1c2231;
+    --red: #ff7a70;
+    --red-bg: #3f1613;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 12px 40px -12px rgba(0, 0, 0, 0.6);
+  }
+}
+
+@theme inline {
+  --color-bg: var(--paper);
+  --color-surface: var(--mist);
+  --color-fg: var(--ink);
+  --color-muted: var(--ink-soft);
+  --color-line: var(--rule);
+  --color-line-strong: var(--rule-strong);
+  --color-brand: var(--brand);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-soft: var(--brand-soft);
+  --color-mango: var(--mango);
+  --color-mango-soft: var(--mango-soft);
+  --color-green: var(--green);
+  --color-green-bg: var(--green-bg);
+  --color-blue: var(--blue);
+  --color-blue-bg: var(--blue-bg);
+  --color-gray: var(--gray);
+  --color-gray-bg: var(--gray-bg);
+  --color-red: var(--red);
+  --color-red-bg: var(--red-bg);
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-display: var(--font-serif), Georgia, serif;
+  --shadow-soft: var(--shadow);
+}
+
+html {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4,
+strong,
+b {
+  font-weight: 500;
+}
+
+.display {
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: -0.015em;
+  line-height: 0.98;
+}
+
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+input,
+select,
+textarea {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--ink-soft);
+}
+
+a {
+  text-underline-offset: 3px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: var(--brand-soft);
+}
+
+.band {
+  background: var(--ink);
+  color: var(--paper);
+  --rule: color-mix(in oklab, var(--paper) 16%, transparent);
+  --rule-strong: color-mix(in oklab, var(--paper) 32%, transparent);
+  --ink-soft: color-mix(in oklab, var(--paper) 64%, transparent);
+  --mist: color-mix(in oklab, var(--paper) 7%, transparent);
+  --brand-soft: color-mix(in oklab, var(--brand) 28%, transparent);
+}
+
+.glow {
+  background:
+    radial-gradient(60% 50% at 30% 20%, color-mix(in oklab, var(--brand) 34%, transparent), transparent 70%),
+    radial-gradient(50% 45% at 75% 30%, color-mix(in oklab, var(--mango) 38%, transparent), transparent 70%);
+  filter: blur(40px);
+}
+
+.grid-lines {
+  background-image:
+    linear-gradient(to right, color-mix(in oklab, var(--ink) 6%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in oklab, var(--ink) 6%, transparent) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(70% 60% at 50% 40%, #000 30%, transparent 100%);
+}
+
+.frame {
+  box-shadow: var(--shadow);
+}
